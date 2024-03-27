@@ -10,6 +10,7 @@ charset-normalizer==3.2.0
 click==8.1.5
 confection==0.1.0
 contourpy==1.1.0
+cohere
 cycler==0.11.0
 cymem==2.0.7
 cytoolz==0.12.1
